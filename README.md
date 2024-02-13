@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @Tiru2002
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Tirumala_Rao</h1>
+<h3 align="center">information technology student</h3>
 
-<!---
-Tiru2002/Tiru2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" alt="coding" width="400" scr="https://www.bing.com/th/id/OGC.54e37d8074ebcde1d96c77d7b2a7f310?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&ehk=PrEGdwL4PhD7Z%2fwJCNJ7ZoCNkliX6f%2bNR0nwPKvtck4%3d">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiru2002&label=Profile%20views&color=0e75b6&style=flat" alt="tiru2002" /> </p>
+
+- 🔭 I’m currently studying in [Agni College of Technology](https://www.bing.com/search?q=agni+college+of+technology&form=ANNTH1&refig=31d3028e2f5b4c0191993744a44e6a80&pc=U531&sp=1&lq=0&qs=LS&pq=agni+&sc=10-5&cvid=31d3028e2f5b4c0191993744a44e6a80)
+
+- 🌱 I’m currently learning **Python, full stack web development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Tiru200](https://github.com/Tiru200)
+
+- 📫 How to reach me **tirumalarao9494@gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/tirumala-rao-kotipatruni-949806193](www.linkedin.com/in/tirumala-rao-kotipatruni-949806193)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiru2002&show_icons=true&locale=en&layout=compact" alt="tiru2002" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiru2002&show_icons=true&locale=en" alt="tiru2002" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiru2002&" alt="tiru2002" /></p>
