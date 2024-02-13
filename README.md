@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirumala_Rao</h1>
 <h3 align="center">information technology student</h3>
 
-<img align="right" alt="coding" width="400" scr="https://www.bing.com/th/id/OGC.54e37d8074ebcde1d96c77d7b2a7f310?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&ehk=PrEGdwL4PhD7Z%2fwJCNJ7ZoCNkliX6f%2bNR0nwPKvtck4%3d">
+<img align="right" alt="coding" width="400" scr="https://github.com/Tiru2002/Tiru2002/blob/main/Gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiru2002&label=Profile%20views&color=0e75b6&style=flat" alt="tiru2002" /> </p>
 
