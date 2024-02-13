@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirumala_Rao</h1>
 <h3 align="center">information technology student</h3>
 
-<img align="right" alt="coding" width="400" scr="https://github.com/Tiru2002/Tiru2002/blob/main/Gif.gif">
+<img align="right" alt="coding" width="400" scr="./Gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiru2002&label=Profile%20views&color=0e75b6&style=flat" alt="tiru2002" /> </p>
 
